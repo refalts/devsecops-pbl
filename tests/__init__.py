@@ -1,1 +1,1 @@
-type nul > tests\__init__.py
+   """Paket test."""
