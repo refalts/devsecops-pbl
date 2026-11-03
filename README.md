@@ -1,4 +1,4 @@
-# DevSecOps Pipeline – PBL RKS532 Keamanan Pengembangan Perangkat Lunak
+# DevSecOps Pipeline – PBL RKS508 
 
 Repo ini menunjukkan penerapan **DevSecOps**: keamanan dimasukkan ke setiap tahap CI/CD (*shift-left security*) menggunakan **GitHub Actions**. Setiap `push` atau `pull request` ke `main` otomatis menjalankan 7 tahap pemeriksaan. Kalau ada temuan kritis, pipeline **gagal** sehingga kode tidak bisa di-merge.
 
