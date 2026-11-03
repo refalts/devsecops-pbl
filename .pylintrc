@@ -1,0 +1,6 @@
+[MASTER]
+ignore=venv,.venv
+[MESSAGES CONTROL]
+disable=C0301
+[DESIGN]
+min-public-methods=0
